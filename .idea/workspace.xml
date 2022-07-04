@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e142cf4-c029-41c3-8df2-8587a4d227ce" name="Changes" comment="создал сервер`!!!">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/translator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/translator/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/translator/server/Server.java" afterDir="false" />
+    <list default="true" id="9e142cf4-c029-41c3-8df2-8587a4d227ce" name="Changes" comment="убрал сервер&#10;программа подключается к серверу и парсит его">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/translator/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/translator/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/translator/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/translator/server/Server.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656897230346</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="создал сервер!!!">
+      <created>1656899422302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656899422302</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +124,8 @@
     <MESSAGE value="сщздал сервер" />
     <MESSAGE value="создал сервер" />
     <MESSAGE value="создал сервер`!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="создал сервер`!!!" />
+    <MESSAGE value="создал сервер!!!" />
+    <MESSAGE value="убрал сервер&#10;программа подключается к серверу и парсит его" />
+    <option name="LAST_COMMIT_MESSAGE" value="убрал сервер&#10;программа подключается к серверу и парсит его" />
   </component>
 </project>

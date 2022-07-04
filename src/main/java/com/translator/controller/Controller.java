@@ -2,7 +2,13 @@ package com.translator.controller;
 
 public class Controller {
 
-    String language = "ru-en";
-    String world = "мама";
+    public String data(){
+
+        String world = "мама";
+
+        return  "ru "+ "en " + world;
+
+    }
+
 
 }
